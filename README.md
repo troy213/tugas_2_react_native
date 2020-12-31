@@ -37,17 +37,17 @@ const nama_function_component = () => {
 Pada tugas ini anda diminta untuk membuat sebuah project baru dengan nama tugas2_react_native :
 1. Buatlah Folder Dengan Nama Component :
 2. Di Dalam Folder Component Buatlah File Dengan Nama Barang.js:
-- Buatlah state di dalam constructor.
-- Buatlah 2 Function Untuk mengeset state yang telah di buat.
-- Buatlah 2 Text Input Lalu Panggil Function Yang Telah Dibuat.
-- Di Dalam Text Input Tambahkan Property Placeholder.
-- Tambahkan Property Value Dimana Untuk Value Nya Didapat Dari State.
-- Di Dalam Salah Satu Text Input Tambahkan Property ```keyboardType="numeric"```
-- Tampilkan Props Yang Di Dapat Dari App.js
-- Tampilkan State Yang Telah Di Buat.
+  - Buatlah state di dalam constructor.
+  - Buatlah 2 Function Untuk mengeset state yang telah di buat.
+  - Buatlah 2 Text Input Lalu Panggil Function Yang Telah Dibuat.
+    - Di Dalam Text Input Tambahkan Property Placeholder.
+    - Tambahkan Property Value Dimana Untuk Value Nya Didapat Dari State.
+    - Di Dalam Salah Satu Text Input Tambahkan Property ```keyboardType="numeric"```
+  - Tampilkan Props Yang Di Dapat Dari App.js
+  - Tampilkan State Yang Telah Di Buat.
 3. Di Dalam File App.js :
-- Import File Barang.js Yang Berada Di Dalam Folder Component.
-- Di Dalam Component Barang Buat Props ```namabelanja="================ Total Belanja ================"```
+  - Import File Barang.js Yang Berada Di Dalam Folder Component.
+  - Di Dalam Component Barang Buat Props ```namabelanja="================ Total Belanja ================"```
 
 4. Tampilan Aplikasi :
 
